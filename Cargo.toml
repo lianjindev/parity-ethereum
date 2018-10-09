@@ -1,10 +1,10 @@
 [package]
-description = "Parity Ethereum client"
-name = "parity-ethereum"
+description = "BPP Ethereum client"
+name = "bpp-ethereum"
 # NOTE Make sure to update util/version/Cargo.toml as well
 version = "2.2.0"
 license = "GPL-3.0"
-authors = ["Parity Technologies <admin@parity.io>"]
+authors = ["Block Group"]
 
 [dependencies]
 blooms-db = { path = "util/blooms-db" }
