@@ -110,11 +110,11 @@ memory_profiling = []
 test-updater = ["parity-updater/test-updater"]
 
 [lib]
-path = "parity/lib.rs"
+path = "bpp/lib.rs"
 
 [[bin]]
-path = "parity/main.rs"
-name = "parity"
+path = "bpp/main.rs"
+name = "bpp"
 
 [profile.dev]
 
