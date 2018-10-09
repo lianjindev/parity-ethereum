@@ -505,8 +505,8 @@ The full list of included changes:
 - Ethcore/sync `Make view macro only visible to test` ([#9316](https://github.com/paritytech/parity-ethereum/pull/9316))
   - Remove needless macro import
   - Enable ethcore/macros in tests
-- Allow setting the panic hook with parity-clib ([#9292](https://github.com/paritytech/parity-ethereum/pull/9292))
-  - Allow setting the panic hook with parity-clib
+- Allow setting the panic hook with bpp-clib ([#9292](https://github.com/paritytech/parity-ethereum/pull/9292))
+  - Allow setting the panic hook with bpp-clib
   - Make all FFI functions unsafe
   - Fix comment
   - Fix concern

@@ -130,7 +130,7 @@ members = [
 	"ethstore/cli",
 	"evmbin",
 	"miner",
-	"parity-clib",
+	"bpp-clib",
 	"whisper",
 	"whisper/cli",
 	"util/triehash-ethereum",

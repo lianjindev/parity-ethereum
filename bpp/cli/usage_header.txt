@@ -1,0 +1,3 @@
+Bpp Ethereum Client.
+	By blockvc.
+	Copyright 2015-2018 BLOCKVC .

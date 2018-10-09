@@ -43,7 +43,7 @@ fi
 
 # Running the C++ example
 echo "________Running the C++ example________"
-cd parity-clib-examples/cpp && \
+cd bpp-clib-examples/cpp && \
   mkdir -p build && \
   cd build && \
   cmake .. && \

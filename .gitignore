@@ -38,7 +38,7 @@ node_modules
 
 # Build artifacts
 out/
-parity-clib-examples/cpp/build/
+bpp-clib-examples/cpp/build/
 
 .vscode
 rls/
