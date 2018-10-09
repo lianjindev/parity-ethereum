@@ -1,6 +1,6 @@
 [package]
 description = "BPP Ethereum client"
-name = "bpp-ethereum"
+name = "parity-ethereum"
 # NOTE Make sure to update util/version/Cargo.toml as well
 version = "2.2.0"
 license = "GPL-3.0"
